@@ -1,0 +1,21 @@
+{
+  "name": "Module02RegularExpressions",
+  "description": "Regular Expressions",
+  "author": "Jeff McBride",
+  "version": "1.0.0",
+  "keywords": [
+    "Regular Expressions",
+    "RegEx"
+  ],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NNLIntermediateJavaScript"
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}

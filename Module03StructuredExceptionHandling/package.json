@@ -1,0 +1,27 @@
+{
+  "name": "Module03StructuredExceptionHandling",
+  "description": "Structured Exception Handling",
+  "author": "Jeff McBride",
+  "version": "1.0.0",
+  "keywords": [
+    "Exceptions",
+    "throw",
+    "try",
+    "catch",
+    "finally"
+  ],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NNLIntermediateJavaScript"
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {}
+}
